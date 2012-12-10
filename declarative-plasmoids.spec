@@ -51,3 +51,10 @@ Declarative plasmoids for the plasma desktop and mobile
 %install
 %makeinstall_std -C build
 
+
+
+%changelog
+* Thu Dec 01 2011 Nicolas Lécureuil <nlecureuil@mandriva.com> 4.8-1
++ Revision: 737109
+- imported package declarative-plasmoids
+
